@@ -1,0 +1,32 @@
+.progress{
+    height:25px;
+    width: 600px;
+    background-color: rgb(233,236,239);
+    border: 1px solid black;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .progress span{
+    position: absolute;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+  }
+
+
+  .bar{
+    height: 100%;
+    background-color: rgb(0,194,81);
+    border-radius: 15px;
+  }
+
+  .imgSize img{
+    height: 100px;
+    width: 100px;
+  }
+
+    
+
